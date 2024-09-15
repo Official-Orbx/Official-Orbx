@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @Official-Orbx
-- 👀 I’m interested in Roblox, Gorilla Tag, Game Development
-- 🌱 I’m currently learning Coding, Graphic Design
-- 💞️ I’m looking to collaborate on Nothing at the minute.
-- 📫 How to reach me No way to reach me at the minute.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I make Roblox games :)
